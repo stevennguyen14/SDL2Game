@@ -1,0 +1,9 @@
+﻿  Animation.cpp
+c:\users\cindyng\documents\dungeongame-master\dungeongame\animation.cpp(57): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\cindyng\documents\dungeongame-master\dungeongame\animation.cpp(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+c:\users\cindyng\documents\dungeongame-master\dungeongame\menu.cpp(70): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cindyng\documents\dungeongame-master\dungeongame\menu.cpp(71): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cindyng\documents\dungeongame-master\dungeongame\menu.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  DungeonGame.vcxproj -> C:\Users\Cindyng\Documents\DungeonGame-master\Debug\DungeonGame.exe
